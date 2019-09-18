@@ -1,2 +1,2 @@
 # markergenerator
-Imagens and patt
+Imagens, patt and models are included
